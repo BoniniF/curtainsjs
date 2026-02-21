@@ -68,8 +68,8 @@
     #source-code-link {
         display: inline-block;
         position: fixed;
-        bottom: 1em;
-        right: 1em;
+        bottom: 0.5em;
+        right: 0.5em;
         padding: 0.25em 0.5em;
         background: #ee6557;
         color: white;
